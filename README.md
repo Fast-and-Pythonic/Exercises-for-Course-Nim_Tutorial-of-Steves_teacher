@@ -19,23 +19,23 @@ A structured set of CodeWars kata collections for the [Nim Programming Tutorial]
 
 | # | Lesson | Core | Extra |
 |---|--------|:----:|:-----:|
-| L01 | Introduction to Nim | [Core](#) | [Extra](#) |
-| L02 | Variables and Data Types | [Core](#) | [Extra](#) |
-| L03 | Working with Strings | [Core](#) | [Extra](#) |
-| L04 | Math | [Core](#) | [Extra](#) |
+| L01 | Introduction to Nim | [Core](https://www.codewars.com/collections/1a-introduction-to-nim-a-language-basics) | [Extra](https://www.codewars.com/collections/1b-introduction-to-nim-a-language-basics) |
+| L02 | Variables and Data Types | [Core](https://www.codewars.com/collections/2a-variables-and-data-types-a-language-basics) | [Extra](https://www.codewars.com/collections/2b-variables-and-data-types-a-language-basics) |
+| L03 | Working with Strings | [Core](https://www.codewars.com/collections/3a-working-with-strings-a-language-basics) | [Extra](https://www.codewars.com/collections/3b-working-with-strings-a-language-basics) |
+| L04 | Math | [Core](https://www.codewars.com/collections/4a-math-a-language-basics) | [Extra](https://www.codewars.com/collections/4b-math-a-language-basics) |
 | L05 | User Input | — | — |
-| L06 | If Statements | [Core](#) | [Extra](#) |
-| L07 | Scopes and Block Statements | [Core](#) | [Extra](#) |
-| L08 | Case Statements | [Core](#) | [Extra](#) |
+| L06 | If Statements | [Core](https://www.codewars.com/collections/6a-if-statements-a-language-basics) | [Extra](https://www.codewars.com/collections/6b-if-statements-a-language-basics) |
+| L07 | Scopes and Block Statements | [Core](https://www.codewars.com/collections/7a-scopes-and-block-statements-a-language-basics) | [Extra](https://www.codewars.com/collections/7b-scopes-and-block-statements-a-language-basics) |
+| L08 | Case Statements | [Core](https://www.codewars.com/collections/8a-case-statements-a-language-basics) | [Extra](https://www.codewars.com/collections/8b-case-statements-a-language-basics) |
 
 ## Block B — Core Collections · Lessons 9–12
 
 | # | Lesson | Core | Extra |
 |---|--------|:----:|:-----:|
-| L09 | Arrays | [Core](#) | [Extra](#) |
-| L10 | Sequences | [Core](#) | [Extra](#) |
-| L11 | Tuples | [Core](#) | [Extra](#) |
-| L12 | Sets | [Core](#) | [Extra](#) |
+| L09 | Arrays | [Core](https://www.codewars.com/collections/9a-arrays-b-core-collections) | [Extra](https://www.codewars.com/collections/9b-arrays-b-core-collections) |
+| L10 | Sequences | [Core](https://www.codewars.com/collections/10a-sequences-b-core-collections) | [Extra](https://www.codewars.com/collections/10b-sequences-b-core-collections) |
+| L11 | Tuples | [Core](https://www.codewars.com/collections/11a-tuples-b-core-collections) | [Extra](https://www.codewars.com/collections/11b-tuples-b-core-collections) |
+| L12 | Sets | [Core](https://www.codewars.com/collections/12a-sets-b-core-collections) | [Extra](https://www.codewars.com/collections/12b-sets-b-core-collections) |
 
 ## Block C — Standard Library: Strings & Algorithms · Lessons 13–20
 
