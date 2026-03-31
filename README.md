@@ -110,15 +110,14 @@ A structured set of CodeWars kata collections for the [Nim Programming Tutorial]
 
 ## CodeWars Collection Navigation
 
-Each collection description on CodeWars includes a navigation block:
+Each collection description on CodeWars includes a quick course navigation block:
 
 ```
 Lessons:
-🡰 Prev   L01  Core · Extra
-   Current  L02  Core · Extra
-🡲 Next   L03  Core · Extra
+🡰    Prev L01  Core  Extra
+   Current L02  Core  Extra
+🡲    Next L03  Core  Extra
 
-— GitHub Course · L02
 — Block A — Language Basics
-— Lesson 2 — Variables and Data Types
+— GitHub Course
 ```
